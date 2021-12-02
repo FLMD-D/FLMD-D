@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FLMD-D
+- 👋 Hi, I’m @FLMD-D (Fiona D-D)
 - 👀 I’m interested in everything Payapps
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on customer experience
